@@ -17,7 +17,7 @@
     <img style="max-width: 325px; transform: scaleX(-1); padding-top: 5px" title="This image is originally for a sinus infection lol" src="./assets/img/NoseSME.jpg">
     </div>
     <div style="width: 50%; margin-left: auto; margin-right: auto">
-    Our professional team is excellent at sniffing out new ways to overcome challenges, apply unique perspetives, and deliver innovative solutions in today's exceedingly competitive landscape.
+    Our professional team is excellent at sniffing out new ways to overcome challenges, apply unique perspectives, and deliver innovative solutions in today's exceedingly complex landscape.
     </div>
 </div>
 
@@ -30,7 +30,7 @@
     <div style="width: 45%;">
      <a href="/olfactorynetworks.html"> <strong> Olfactory Networks: </strong></a>
      <br>
-     A new generation of Nueral Network AI model inspired by how fast noses run.
+     A new generation of Neural Network AI models inspired by how fast noses run.
     </div>
     <div>
     <a href="/olfactorynetworks.html"> <img style="max-width: 400px; transform: scaleX(-1); padding-top: 5px" title="an image with a link!" src="./assets/img/Digital-Nose_cropped_orange.png"></a>
